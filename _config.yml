@@ -1,0 +1,9 @@
+title: Mi Blog de Robótica
+description: Documentando mi progreso en la asignatura de Robótica
+author: celiadsp
+theme: jekyll-theme-minimal
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+baseurl: /robotics
+url: https://celiadsp.github.io
