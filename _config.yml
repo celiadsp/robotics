@@ -1,7 +1,7 @@
 title: Mi Blog de Robótica
 description: Documentando mi progreso en la asignatura de Robótica
 author: celiadsp
-theme: jekyll-theme-minimal
+theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
